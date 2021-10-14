@@ -2,6 +2,12 @@
 
 This document outlines major changes between releases.
 
+## 0.17.0 (28 Jul 2021)
+
+New features:
+* logging requests (#77)
+* HEAD methods for download routes (#76)
+
 ## 0.16.1 (28 Jul 2021)
 
 New features:
